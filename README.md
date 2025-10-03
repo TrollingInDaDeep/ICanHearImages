@@ -24,3 +24,16 @@ Red, Green and Blue can be used for fun modifications.
 Next step would be to create vertical bars. for that you need a very high frequency (ca. 145Khz) It could be possible with arduino UNO but I failed to do it.
 It can theoretically do the frequency, but it didn't really work on my monitor. Maybe the Monitor was the issue.
 
+## Example images
+In below images, only the blue channel is connected to my laptop. Webcam is open and pointing at me.
+Right channel receives a triangle wave with chorus effect and goes to green color.
+Left channel receives a low sine, goes to red color.
+
+saw wave with harmonies
+![saw_harmonies](./images/saw_with_harmonies.jpg)
+
+saw wave and sine
+![saw_sine](./images/saw_and_low_sine.jpg)
+
+saw wave with chorus
+![Chorus](./images/chorus.jpg)
